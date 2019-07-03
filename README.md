@@ -49,5 +49,8 @@ $ npm start
 ## Deployment
 
 ## Author
+Dhwani Mehta 
+(Artificial Intelligence developer at Silver Touch Pvt. Ltd)
 
 ## Acknowledgments
+Ritesh Patel , Rushiraj Yadav
