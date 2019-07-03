@@ -1,5 +1,0 @@
-##NETWORK_ERROR Table##
-Time_zone  Counts  Rate
-   Day       32    3.2%
- Evening     34    3.4%
-  Night      22    2.2%
