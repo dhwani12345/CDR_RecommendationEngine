@@ -1,4 +1,4 @@
-## Table of contents
+## Project Title
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
