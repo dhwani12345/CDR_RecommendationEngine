@@ -1,7 +1,5 @@
-## Project Title
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+## Project Description
+With ever growing competition in telecommunications markets, operators have to increasingly rely on business intelligence to offer the right incentives. This project demonstrates the use of Recommendation Engine to recomend the person to call at given slot of the day (diving entire day(i.e. 24 hours) into 6 slots(4 hours each)) based on users call data record history.
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
